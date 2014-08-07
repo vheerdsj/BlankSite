@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\BlankSite\BlankSite1\bin\BlankSite1.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\BlankSite\BlankSite1\bin\BlankSite1.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\BlankSite\BlankSite1\obj\Debug\BlankSite1.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\BlankSite\BlankSite1\obj\Debug\BlankSite1.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\BlankSite\BlankSite1\obj\Debug\BlankSite1.pdb
